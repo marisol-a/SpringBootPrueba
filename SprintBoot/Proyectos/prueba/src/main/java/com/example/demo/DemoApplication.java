@@ -16,8 +16,8 @@ public class DemoApplication {
 		Task1 t4 = new Task1("Finalizando tareas...", false, LocalDate.of(2022, 8, 25));
 		Task1 t5 = new Task1("Recuperar finalizando tareas...", false, LocalDate.of(2022, 8, 20));
 
-		/*System.out.println("Descripción de la tarea: " + t1.getDescription());
-		System.out.println("Fecha de la tarea: " + t1.getDueDate());
+		System.out.println("Descripción de la tarea: " + t1.getDescription());
+		/*System.out.println("Fecha de la tarea: " + t1.getDueDate());
 		System.out.println("Estado de la tarea realizada: " + t1.getDone());
 		t1.setDescription("Recordando POO");
 		System.out.println("Descripción de la tarea: " + t1.getDescription());*/
